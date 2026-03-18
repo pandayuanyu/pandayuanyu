@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 # Hi, I'm Yu 👋
 
 🔭 I’m currently a PhD candidate at Purdue University. Here is my [webiste](https://yuyuanspace.com/).
+
 🌱 I’m working on building physics-consistent generative worlds. My work sits at the intersection of generative modeling, physical understanding, and computational photography, enforcing space-time-camera consistency in generative systems.
 
